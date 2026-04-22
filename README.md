@@ -8,7 +8,7 @@ A single-page personal portfolio for **Prince Edwin Nyarko** — built with **Re
 
 Paste your production URL here after you deploy (GitHub Pages, Vercel, Netlify, etc.):
 
-**`https://YOUR_DEPLOYMENT_URL_HERE`**
+**`https://portfolio-website-official.vercel.app/`**
 
 ---
 
